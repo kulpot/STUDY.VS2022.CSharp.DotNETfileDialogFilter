@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNETfileDialogFilter", "DotNETfileDialogFilter\DotNETfileDialogFilter.csproj", "{5EE0B16E-F523-40CD-B18D-5C17FDD6E124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EE0B16E-F523-40CD-B18D-5C17FDD6E124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE0B16E-F523-40CD-B18D-5C17FDD6E124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE0B16E-F523-40CD-B18D-5C17FDD6E124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE0B16E-F523-40CD-B18D-5C17FDD6E124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AD4CC38-CCB4-467B-B784-3215E709E6D3}
+	EndGlobalSection
+EndGlobal
